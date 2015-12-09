@@ -1,9 +1,11 @@
+%define _disable_lto 1
+
 %global major_version 0.30
 %global minor_version 4
 
 Name:       java-atk-wrapper
 Version:    %{major_version}.%{minor_version}
-Release:    4%{?dist}
+Release:    4.1
 Summary:    Java ATK Wrapper
 
 #Group
