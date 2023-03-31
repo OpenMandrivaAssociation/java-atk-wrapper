@@ -5,7 +5,7 @@
 
 Name:       java-atk-wrapper
 Version:    %{major_version}.%{minor_version}
-Release:    4.2
+Release:    4.3
 Summary:    Java ATK Wrapper
 
 #Group
