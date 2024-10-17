@@ -10,7 +10,7 @@ Summary:    Java ATK Wrapper
 
 #Group
 License:    LGPLv2+
-URL:        http://git.gnome.org/browse/java-atk-wrapper
+URL:        https://git.gnome.org/browse/java-atk-wrapper
 Source0:    http://ftp.gnome.org/pub/GNOME/sources/%{name}/%{major_version}/%{name}-%{version}.tar.bz2
 # this is a fedora-specific file
 # needed to explain how to use java-atk-wrapper with different java runtimes
