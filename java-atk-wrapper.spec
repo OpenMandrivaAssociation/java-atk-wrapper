@@ -16,6 +16,11 @@ Source0:    http://ftp.gnome.org/pub/GNOME/sources/%{name}/%{major_version}/%{na
 # needed to explain how to use java-atk-wrapper with different java runtimes
 Source1:    README.fedora
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:  java-devel
 
 BuildRequires:  atk-devel
